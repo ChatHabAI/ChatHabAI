@@ -39,7 +39,7 @@ Installation instructions:
 2) Launch the bot
 <br>
 <ul>
-<li>cd /home/angrybeaver/ChatHabAI_TEST</li>
+<li>cd /ChatHabAI_TEST</li>
 <li>python3 main.py</li>
 </ul>
 <br>

@@ -1,4 +1,5 @@
 <b>ChatHabAI</b>
+<br>
 This chat bot is made for use in Telegram; it works only with open APIs. To use, you will need paid or free AI accounts; to modify and purchase rights to use, please contact ChatHabAI via contacts.
 <br>
 <br>

@@ -4,6 +4,8 @@ This chat bot is made for use in Telegram; it works only with open APIs. To use,
 <br>
 Tools used: Python, aiogram, freeGPT, Pillow
 <br>
+Operating system: Ubuntu 22.04
+<br>
 <br>
 This bot can work with several neural networks:
 <br>
